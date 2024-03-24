@@ -1,0 +1,3 @@
+you need to have linux based 
+sudo apt install aircrack-ng
+sudo apt install nmcli
